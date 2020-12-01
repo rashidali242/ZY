@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Demo" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-01T09:12:03" hostname="TEO-RALI" time="15.51">
+  <properties/>
+  <testcase name="TPCSNext" classname="Demo" time="15.51"/>
+  <system-out><![CDATA[landed to Splash screen
+Landed to Home Screen
+Configuration : OK
+success cases
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
